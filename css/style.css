@@ -2,3 +2,34 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+  background-color: #000000;
+}
+.mybody {
+  
+}
+.myimg {
+      background-color: #000000;
+      color: #ffffff;
+      max-width: 225px;
+      margin: 0 left;
+      border: 3px solid #12c56b;
+      border-top: 10px solid #12c56b;
+      align-content: right;
+}
+.para {
+  color: darkgreen;
+  background-color: #000000;
+  max-width: 500px;
+  border: #12c56b;
+  border-bottom:10px #12c56b;
+  border-right: 5px#12c56b;
+}
+p {
+  font-style: oblique;
+  font-size: medium;
+}
+h6 {
+  color :#12c56b;
+
+}
